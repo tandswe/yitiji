@@ -14,7 +14,7 @@
 		name:'passport',
 		data(){
 			return {
-				secCount:10
+				secCount:10 
 			}
 		},
 		methods:{
