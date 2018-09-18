@@ -1,0 +1,45 @@
+@media screen and (max-width:1200px){
+    //listCommon
+    .rightcontent{
+        width:90%;
+        padding:5vh 0 0;
+        .list1{
+            width:100%;
+            li{
+                width:25vw;
+                height:9vh;
+                margin:1.6vh 2.49vw;
+                img{
+                    width:100px;
+                    display:block;
+                }
+                p{
+                   margin-top:1vh;
+                   font-size:43px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width:1200px){
+    //listCommon
+    .rightcontent{
+        width:1480px;
+        padding:10vh 0 0;
+       .list1{
+           li{
+               width:333px;
+               height:17.3vh;
+               margin:1.6vh 17px;
+               img{
+                width:86px;
+                height:8vh;
+                display:block;
+            }
+           }
+       }
+   }
+
+
+}

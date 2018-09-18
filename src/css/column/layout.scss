@@ -1,0 +1,38 @@
+@media screen and (max-width:1200px){
+    .header{
+    height:6%;
+    .logo{
+      font-size:50px;
+      line-height: 80px;
+     
+    }
+    .date{
+      font-size:45px;
+     }
+    }
+    .main{
+        height:90.5%;
+      }
+    .footer{
+        height: 3.5%;
+      }
+}
+
+@media screen and (min-width:1200px){
+  .header{
+    height:9%;
+       .logo{
+         font-size:32px;
+       }
+       .date{
+        font-size:32px;
+       }
+    }
+  .main{
+    height:83%;
+  }
+  .footer{
+    height: 8%;
+  }
+
+}
